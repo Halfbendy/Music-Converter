@@ -12,3 +12,8 @@ Provided as part of assignment
 #Song Driver
 Runs the program, input file is input.txt and output is output.wav
 Provided as part of assignment
+
+#Menuet/Polka
+Input files for the program.
+Needed to be renamed input.txt to run, that's how driver was provided
+Provided as part of assignment
